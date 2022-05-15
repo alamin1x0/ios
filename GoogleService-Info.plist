@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>556675480157-n35vm9ev2h6mv0nj98i26ag93dn4uk0e.apps.googleusercontent.com</string>
+	<string>135711344831-obgvugkrd4ed5v2vph1kn74k3b747cic.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.556675480157-n35vm9ev2h6mv0nj98i26ag93dn4uk0e</string>
+	<string>com.googleusercontent.apps.135711344831-obgvugkrd4ed5v2vph1kn74k3b747cic</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>556675480157-n009a1k5cmg7vqdk8ta6jpbet0dpqq3m.apps.googleusercontent.com</string>
+	<string>135711344831-78spc227f0vd973l1eo2b6g1o11d35t0.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBIGnxFx01dCajlFBl6JTyjGvTXOgXVtOQ</string>
+	<string>AIzaSyC6WrlNr23OSDpRTzNzzhHyCDmUmd4lt50</string>
 	<key>GCM_SENDER_ID</key>
-	<string>556675480157</string>
+	<string>135711344831</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>-.PhoneAuth</string>
+	<string>com.qmodi.client.QmodiClient</string>
 	<key>PROJECT_ID</key>
-	<string>whatsappclonesakib</string>
+	<string>qmodi1776</string>
 	<key>STORAGE_BUCKET</key>
-	<string>whatsappclonesakib.appspot.com</string>
+	<string>qmodi1776.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:556675480157:ios:b4bcfec2a38aed48a0abb4</string>
-	<key>DATABASE_URL</key>
-	<string>https://whatsappclonesakib-default-rtdb.firebaseio.com</string>
+	<string>1:135711344831:ios:e5a268be19578d7cf31e0a</string>
 </dict>
 </plist>
